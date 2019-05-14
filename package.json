@@ -1,0 +1,27 @@
+{
+  "name": "burgers-app",
+  "version": "1.0.0",
+  "description": "burger application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marrvill/BurgerHW.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Marlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marrvill/BurgerHW/issues"
+  },
+  "homepage": "https://github.com/Marrvill/BurgerHW#readme",
+  "dependencies": {
+    "node": "^12.2.0",
+    "node.js": "0.0.0",
+    "nodejs": "0.0.0"
+  }
+}
